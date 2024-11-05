@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Carlos Jardel dos Santos
+# 👋 Olá! Eu sou O Encouraçado
 
 Sou um profissional de **Tecnologia da Informação** com mais de 7 anos de experiência. Minha especialidade é na área de **hardware, software, redes, design gráfico e gestão de TI**. Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento de **ReactJS** e **Firebase**, e sempre em busca de novos desafios e conhecimentos.
 
