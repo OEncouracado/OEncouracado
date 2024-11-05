@@ -6,7 +6,7 @@ Sou um profissional de **Tecnologia da Informação** com mais de 7 anos de expe
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente, estou desenvolvendo o **[sublinks.me](https://sublinks.me)**, um agregador de links gamificado inspirado no Linktree.
+- 🔭 Atualmente, estou desenvolvendo o **[linkii.me](https://linkii.me)**, um agregador de links gamificado inspirado no Linktree.
 - 📚 Estudando **Gestão da Tecnologia da Informação** na UNOPAR.
 - 🎯 Interessado em oportunidades na área de **Gestão de TI** e focado em expandir minha presença e autoridade no setor de tecnologia.
 
@@ -22,9 +22,9 @@ Sou um profissional de **Tecnologia da Informação** com mais de 7 anos de expe
 
 ### 📈 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carlos-jardel&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=OEncouracado&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-jardel&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OEncouracado&layout=compact&theme=radical)
 
 ---
 
